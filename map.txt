@@ -1,0 +1,31 @@
+1111111111   1111111111111111                                                  
+1qqqqqqqq1   1wwwwwwwwwwwwww1                                                  
+1qqqqqqqq22222wwwwwwwwwwwwww1                                                  
+1qqqqqqqq1   1wwwwwwwwwwwwww1                                                  
+1111111111   1wwwwwwwwwwwwww1                                                  
+             1wwwwwwwwwwwwww22222222222222222                                  
+             1wwwwwwwwwwwwww1               2                                  
+             1wwwwwwwwwwwwww1               2                                  
+             1wwwwwwwwwwwwww1             1121111111111111111111               
+             1111111111211111             1rrrrrrrrrrrrrrrrrrrr1               
+                       2                  1rrrrrrrrrrrrrrrrrrrr1               
+                       2                  1rrrrrrrrrrrrrrrrrrrr11111111111111  
+                       2                  1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr1  
+                       2 1111111111       1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr1  
+                       222eeeeeeee1       1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr1  
+                         1111111111       1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr1  
+                                          11111211111111111111111111111111111  
+                                               2                               
+                                               2                               
+                                               2                               
+                                            2222222                            
+                                               2                               
+                                            1112111                            
+                                            1ttttt1                            
+                                            1ttttt1                            
+                                            1ttttt1                            
+                                            1ttttt1                            
+                                            1ttttt1                            
+                                            1ttttt1                            
+                                            1111111                            
+                                                                               
